@@ -1,0 +1,36 @@
+.div{
+    height: 300px;
+    width: 100%;
+   
+    border:2px red dashed;
+ background-color:darkblue;   
+}
+.div1{
+    text-align: center;
+    }
+    .img{
+        height:400px;
+        width: 500px;
+        margin-top: 20px;
+        margin-left: 30%;
+    }
+    .div2{
+        margin-top: 20px;
+        margin-left: 20%;
+        text-align: center;
+        height: 600px;
+        width: 50%;
+       
+        border:2px blue dashed;
+     background-color:wheat   
+    }
+    .div3{
+        margin-top: 20px;
+        margin-left: 20%;
+        text-align: center;
+        height: 700px;
+        width: 50%;
+       
+        border:2px blue dashed;
+     background-color:wheat  
+    }
